@@ -27,3 +27,7 @@ value = {'a':0, 'n':0, 'd':0}
 read_value(value)
 progress(value)
 
+#можно было проще
+# for i in range(n):
+#     print(a1+n*d)
+
